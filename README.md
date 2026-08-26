@@ -27,8 +27,8 @@ A web-based project designed to help students connect, communicate, and study to
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Omkar Wadkar](in/omkar-wadkar)
-- 💻 GitHub: [Omi2605](https://github.com/Omi2605)
+- 💼 LinkedIn: [Omkar Wadkar](https://www.linkedin.com/in/omkar-wadkar)
+- 💻 GitHub: [Omi2605](https://github.com/Omii2605)
 
 ## 🌟 About Me
 
