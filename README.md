@@ -174,27 +174,6 @@ Data Structures & Algorithms
 Software Engineering
 Git & GitHub
 ```
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
 ---
 
 ## 🎯 2026 Goals
