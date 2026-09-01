@@ -90,7 +90,7 @@ A recommendation system that uses **TF-IDF and Cosine Similarity** to find movie
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/CineMatch">
+<a href="https://github.com/Omkar260405/Cinematch">
 View Project →
 </a>
 
@@ -110,7 +110,7 @@ A simple application for converting values between different currencies using cu
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/global-currency">
+<a href="https://github.com/Omkar260405/global-currency-exchange-rate-prediction">
 View Project →
 </a>
 
