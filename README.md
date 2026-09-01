@@ -124,49 +124,25 @@ View Project →
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,django,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,django,flask" />
 </p>
 
-### 🗄️ Database & Version Control
+### 🗄️ Databases & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,django,flask" />
-</p>
-
-### 🗄️ Database & Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
 ## 📚 Currently Learning
