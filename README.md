@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>✨ OMKAR WADKAR ✨</h1>
+<h1> OMKAR WADKAR </h1>
 
 ### `MCA • AI/ML • SOFTWARE DEVELOPMENT`
 
