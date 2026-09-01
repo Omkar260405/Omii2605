@@ -236,20 +236,12 @@ I don't want to just learn technologies.
 
 ### 🤝 Let's Connect
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Omkar260405&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
+<a href="https://github.com/Omkar260405">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/omkar-wadkar">LinkedIn</a>
 
 <br><br>
 
 ⭐ **Thanks for visiting my profile!**
 
 </div>
-
-<!--
-Profile widgets use external services.
-If a widget stops rendering, check the corresponding service.
--->
