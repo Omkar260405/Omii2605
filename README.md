@@ -241,7 +241,7 @@ I don't want to just learn technologies.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Omkar260405&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
 
 <br><br>
 
