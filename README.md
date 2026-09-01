@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Omkar Wadkar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=OMKAR+WADKAR" />
+
+### MCA Student | AI/ML Enthusiast | Software Developer
+
+</div>
 
 ### `MCA • AI/ML • SOFTWARE DEVELOPMENT`
 
